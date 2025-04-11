@@ -8,6 +8,9 @@ This project analyzes the 2017 Germany election data (adapted dataset and analys
 - **run_adapted.sh**: Bash script to execute the Python script.
 - **figures/**: Directory for saved figures.
 
+## Dataset: 
+Link: https://www.govdata.de/suche/daten/bundestagswahl-2017 (more details in the codebook data/2017_german_election_codebook.md) 
+
 ## Setup:
 1. Place the provided CSV file `2017_german_election_overall.csv` in the project directory.
 2. Install dependencies:
