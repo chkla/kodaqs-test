@@ -38,6 +38,7 @@ If you use this project or dataset in your work, please consider citing it as fo
 Author. (2025). *German Federal Election 2017 Data Analysis*. GitHub Repository. https://github.com/chkla/kodaqs-test
 
 **BibTeX:**
+```
 @misc{german_election_2017,
   author       = {Your Name},
   title        = {German Federal Election 2017 Data Analysis},
@@ -45,3 +46,4 @@ Author. (2025). *German Federal Election 2017 Data Analysis*. GitHub Repository.
   url          = {https://github.com/chkla/kodaqs-test},
   note         = {Accessed April 11, 2025}
 }
+```
